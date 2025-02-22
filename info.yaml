@@ -4,7 +4,7 @@ project:
   # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
   wokwi_id:     111111111111111111        # If using wokwi, set this to your project's ID
   
-  title:        ""      # Project title
+  title:        "CYCLIPSONIC"      # Project title
   author:       "IITBBS_HEART"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A dual-mode washing machine controller featuring a LiPSi microprocessor and a standalone controller, selectable via a pin configuration."      # One line description of what your project does
