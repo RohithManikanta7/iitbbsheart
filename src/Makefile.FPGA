@@ -2,7 +2,7 @@ SHELL := /bin/bash # Use bash syntax
 SEED = 10
 PROJECT = bitstream
 
-TOPCELL = tt_um_example_1
+TOPCELL = tt_um_example
 PIN_DEF = tt3_asic_sim.pcf
 SOURCES = project.sv
 
